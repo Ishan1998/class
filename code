@@ -1,0 +1,9 @@
+a=int(input("enter class"))
+b=int(input("enter password"))
+while a>0:
+    if b==1:
+        input("correct")
+    elif b==2:
+        input("correct 2")
+else:
+    print("correct 3")
